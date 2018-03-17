@@ -1,10 +1,10 @@
 # irishLists
 
 
-| File  | Description |
-| ------------- | ------------- |
-| firstNames.csv  | Content Cell  |
-| irishCountiesAndProvinces.csv  | Content Cell  |
+| File  | Description | Description |
+| ------------- | ------------- | ------------- |
+| firstNames.csv  | Content Cell  | ------------- |
+| irishCountiesAndProvinces.csv  | Content Cell  | ------------- |
 
 
 | File  | Description | Notes |
